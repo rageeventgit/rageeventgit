@@ -1,18 +1,12 @@
-<h1 align="center">Hi 👋, I'm Echo</h1>
-<h3 align="center">I'm a minecraft plugin developer.</h3>
+# 💫 About Me:
+🍵 I'm a java dev.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=echomonic&label=Profile%20views&color=0e75b6&style=flat" alt="echomonic" /> </
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-</p>
+![](https://github-readme-stats.vercel.app/api?username=rageeventgit&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=rageeventgit&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rageeventgit&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
-
-<p>
-<h2 align="center"> 💾 <span class="bolded">Stats</span></h2>
-
-<p1 align="center">![GitHub stats](https://github-readme-stats.vercel.app/api?username=Echomonic&show_icons=true&theme=material-palenight)</p1>
-
-</p>
+[![](https://visitcount.itsvg.in/api?id=rageeventgit&icon=0&color=0)](https://visitcount.itsvg.in)
